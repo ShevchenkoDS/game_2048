@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4396ac7d-8197-4dcf-8ef0-f3e84099be10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/animframe_polyfill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bind_polyfill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/classlist_polyfill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/game_manager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/html_actuator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/keyboard_input_manager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/local_storage_manager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/tile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meta/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meta/apple-touch-startup-image-640x1096.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meta/apple-touch-startup-image-640x920.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/fonts/ClearSans-Bold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/fonts/ClearSans-Bold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/fonts/ClearSans-Bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/fonts/ClearSans-Light-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/fonts/ClearSans-Light-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/fonts/ClearSans-Light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/fonts/ClearSans-Regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/fonts/ClearSans-Regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/fonts/ClearSans-Regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/fonts/clear-sans.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/helpers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/main.scss" afterDir="false" />
-    </list>
+    <list default="true" id="4396ac7d-8197-4dcf-8ef0-f3e84099be10" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638014352011</updated>
-      <workItem from="1638014354335" duration="360000" />
+      <workItem from="1638014354335" duration="584000" />
     </task>
     <servers />
   </component>
